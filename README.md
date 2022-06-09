@@ -1,3 +1,42 @@
+# My cool editor
+
+#### concept and goals
+
+An editor I can use daily that can have a key feature of live md conversion.
+
+Current md editors are mainly split screen, you enter the text and it displays externally on the output.
+This is not pleasing. I want it to be like typing in japanese with kanji conversion.. you type `# hey mom` into the editor and bam! it immediatly becomes
+
+> # hey mom
+
+in the same editor, no split screen nonsence
+
+---
+
+## Current Feature development:
+
+-   work like a regular text editor
+-   have the ability to save files (locally and maybe localhost)
+-   will have an instant md conversion
+
+## Future Features:
+
+_Things I would like to add in the future_
+
+-   can save documents (DB intergration)
+-   A nice UI
+-   PWA??
+
+## Language ect
+
+#### The stuff to use
+
+React.js
+Typescript
+TBD
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
